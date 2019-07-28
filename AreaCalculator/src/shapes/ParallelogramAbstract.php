@@ -38,8 +38,6 @@ abstract class ParallelogramAbstract implements ShapeInterface
   public function getPerimeter(): float
   {
     return bcmul(2, $this->base + $this->anotherSide, $this->scale);
-
-
   }
 
   /**
