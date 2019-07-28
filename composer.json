@@ -1,0 +1,8 @@
+{
+    "autoload": {
+        "psr-4": {"Shapes\\": "AreaCalculator/src/shapes"}
+    },
+    "require-dev": {
+        "phpunit/phpunit": "7"
+    }
+}
