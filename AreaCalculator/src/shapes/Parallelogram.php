@@ -6,7 +6,7 @@ namespace Shapes;
  * Class Parallelogram
  * This is a class defining 2-dimensional geometric shapes, holding properties and making basic calculations.
  * This class defines properties and provide calculation features for parallelogram.
- * @author Tom Shimizu <tom_wrk@outlook.com>
+ * @author Tom S. <tom_wrk@outlook.com>
  * @package Shapes
  */
 class Parallelogram extends ParallelogramAbstract implements ShapeInterface

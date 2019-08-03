@@ -6,7 +6,7 @@
  *
  *   $php .\Demonstrator.php
  *
- * @author Tom Shimizu <tom_wrk@outlook.com>
+ * @author Tom S. <tom_wrk@outlook.com>
  * @package Shapes
  */
 

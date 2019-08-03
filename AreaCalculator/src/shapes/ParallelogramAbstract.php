@@ -5,7 +5,7 @@ namespace Shapes;
 /**
  * Interface ShapesInterface
  * This an abstract class defines properties and provide calculation features for parallelogram, including rectangle and square.
- * @author Tom Shimizu <tom_wrk@outlook.com>
+ * @author Tom S. <tom_wrk@outlook.com>
  * @package shapes
  */
 abstract class ParallelogramAbstract implements ShapeInterface

@@ -6,7 +6,7 @@ namespace Shapes;
  * Class EquilateralTriangle
  * This is a class defining 2-dimensional geometric shapes, holding properties and making basic calculations.
  * This class defines properties and provide calculation features for equilateral triangle.
- * @author Tom Shimizu <tom_wrk@outlook.com>
+ * @author Tom S. <tom_wrk@outlook.com>
  * @package Shapes
  */
 class EquilateralTriangle implements ShapeInterface

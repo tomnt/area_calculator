@@ -4,7 +4,7 @@ namespace Shapes;
 /**
  * Interface ShapesInterface
  * This is an interface defining 2-dimensional geometric shapes and making basic calculations.
- * @author Tom Shimizu <tom_wrk@outlook.com>
+ * @author Tom S. <tom_wrk@outlook.com>
  * @package shapes
  */
 interface ShapeInterface

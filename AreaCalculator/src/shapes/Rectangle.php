@@ -5,7 +5,7 @@ namespace Shapes;
  * Class Rectangle
  * This is a class defining 2-dimensional geometric shapes, holding properties and making basic calculations.
  * This class defines properties and provide calculation features for rectangle.
- * @author Tom Shimizu <tom_wrk@outlook.com>
+ * @author Tom S. <tom_wrk@outlook.com>
  * @package Shapes
  */
 class Rectangle extends Parallelogram implements ShapeInterface

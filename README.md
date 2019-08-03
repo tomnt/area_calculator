@@ -1,5 +1,5 @@
 # area_calculator
-PHP library for defining 2-dimensional geometric shapes and making basic calculations with them.  The following shapes should be featured:
+PHP library for defining 2-dimensional geometric shapes and making basic calculations with them.  The following shapes are featured:
 
 * circle
 * right triangle
@@ -8,7 +8,7 @@ PHP library for defining 2-dimensional geometric shapes and making basic calcula
 * square
 * parallelogram
 
-For each shape, the library should be able to do the following:
+For each shape, the library does followings:
 
 * calculate the area
 * calculate the perimeter
